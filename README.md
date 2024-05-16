@@ -1,5 +1,5 @@
 <h1>PROJETO CONFIA: Combate a Fake News Utilizando Inteligência Artificial</h1>
-<h2>Projeto desenvolvido por mim para o <a href='https://www.ime.eb.mil.br/'>Instituto Militar de Engenharia</a></h2>
+<h2>Projeto desenvolvido por mim para o <a href='https://www.ime.eb.mil.br/' target="_blank" rel="noopener noreferrer">Instituto Militar de Engenharia</a></h2>
 
 <figure>
  <p>Logo do Projeto: </p>
